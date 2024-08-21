@@ -1,0 +1,13 @@
+<ApplicationData>
+    <Loaners>
+        <Loaner>
+            <ApplicantDetails>
+                <Name>Иван Иванов</Name>
+                <Age>83</Age>
+            </ApplicantDetails>
+            <LoanAmount>10000</LoanAmount>
+            <LoanTerm>37</LoanTerm>
+            <INN>123456789012</INN>
+        </Loaner>
+    </Loaners>
+</ApplicationData>
